@@ -1,2 +1,1 @@
-# baez_johnathan_PA2
-p1, p2, p3 hw
+# baez_johnathan_PA2 > bin > p1, p2, p3
